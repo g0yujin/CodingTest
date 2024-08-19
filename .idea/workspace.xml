@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2aaa4b18-f684-4697-8545-8b1c93cef5f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/유진/0817/17276_배열돌리기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/유진/0817/17413_단어뒤집기2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/유진/0817/22858_원상복구.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/0819/2606.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,8 +41,10 @@
   "keyToString": {
     "Python.10994.executor": "Run",
     "Python.1244.executor": "Run",
+    "Python.1260.executor": "Run",
     "Python.12933.executor": "Run",
     "Python.14467.executor": "Run",
+    "Python.17276_배열돌리기.executor": "Run",
     "Python.17413_단어뒤집기2.executor": "Run",
     "Python.1913_달팽이.executor": "Run",
     "Python.20053.executor": "Run",
