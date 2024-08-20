@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2aaa4b18-f684-4697-8545-8b1c93cef5f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/유진/0819/2606.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/0820/11725_트리의 부모 찾기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/0820/1325_효율적인 해킹.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,9 +42,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.10994.executor": "Run",
+    "Python.11725_트리의 부모 찾기.executor": "Run",
     "Python.1244.executor": "Run",
     "Python.1260.executor": "Run",
     "Python.12933.executor": "Run",
+    "Python.1325_효율적인 해킹.executor": "Run",
     "Python.14467.executor": "Run",
     "Python.17276_배열돌리기.executor": "Run",
     "Python.17413_단어뒤집기2.executor": "Run",
@@ -55,6 +59,7 @@
     "Python.21918.executor": "Run",
     "Python.22858_원상복구.executor": "Run",
     "Python.2578.executor": "Run",
+    "Python.2606.executor": "Run",
     "Python.2753.executor": "Run",
     "Python.4396.executor": "Run",
     "Python.5597.executor": "Run",
