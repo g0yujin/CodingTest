@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2aaa4b18-f684-4697-8545-8b1c93cef5f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/유진/0820/11725_트리의 부모 찾기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/유진/0820/1325_효율적인 해킹.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/0821/2178_미로탐색.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/0821/2667_단지번호붙이기.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -56,10 +56,12 @@
     "Python.20291_파일 정리.executor": "Run",
     "Python.20436.executor": "Run",
     "Python.20546.executor": "Run",
+    "Python.2178_미로탐색.executor": "Run",
     "Python.21918.executor": "Run",
     "Python.22858_원상복구.executor": "Run",
     "Python.2578.executor": "Run",
     "Python.2606.executor": "Run",
+    "Python.2667_단지번호붙이기.executor": "Run",
     "Python.2753.executor": "Run",
     "Python.4396.executor": "Run",
     "Python.5597.executor": "Run",
