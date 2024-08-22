@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2aaa4b18-f684-4697-8545-8b1c93cef5f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/유진/0821/2178_미로탐색.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/유진/0821/2667_단지번호붙이기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/0822/14940_쉬운 최단거리.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/0822/16918_봄버맨.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -28,6 +28,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -48,6 +51,8 @@
     "Python.12933.executor": "Run",
     "Python.1325_효율적인 해킹.executor": "Run",
     "Python.14467.executor": "Run",
+    "Python.14940_쉬운 최단거리.executor": "Run",
+    "Python.16918_봄버맨.executor": "Run",
     "Python.17276_배열돌리기.executor": "Run",
     "Python.17413_단어뒤집기2.executor": "Run",
     "Python.1913_달팽이.executor": "Run",
