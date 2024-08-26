@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2aaa4b18-f684-4697-8545-8b1c93cef5f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/유진/0824/11724_연결요소의 개수.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/유진/0824/4963_섬의 개수.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/0826/2231_분해합.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/0826/2798_블랙잭.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/0827/18312_시각.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/0827/19532_수학은 비대면강의입니다.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -57,6 +59,7 @@
     "Python.16918_봄버맨.executor": "Run",
     "Python.17276_배열돌리기.executor": "Run",
     "Python.17413_단어뒤집기2.executor": "Run",
+    "Python.18312_시각.executor": "Run",
     "Python.1913_달팽이.executor": "Run",
     "Python.20053.executor": "Run",
     "Python.20291.executor": "Run",
@@ -65,11 +68,13 @@
     "Python.20546.executor": "Run",
     "Python.2178_미로탐색.executor": "Run",
     "Python.21918.executor": "Run",
+    "Python.2231_분해합.executor": "Run",
     "Python.22858_원상복구.executor": "Run",
     "Python.2578.executor": "Run",
     "Python.2606.executor": "Run",
     "Python.2667_단지번호붙이기.executor": "Run",
     "Python.2753.executor": "Run",
+    "Python.2798_블랙잭.executor": "Run",
     "Python.4396.executor": "Run",
     "Python.4963_섬의 개수.executor": "Run",
     "Python.5597.executor": "Run",
@@ -80,6 +85,11 @@
     "last_opened_file_path": "/Users/goyujin/Desktop/CodingTest"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/유진/0827" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
