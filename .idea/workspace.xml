@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2aaa4b18-f684-4697-8545-8b1c93cef5f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/유진/0826/2231_분해합.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/유진/0826/2798_블랙잭.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/유진/0827/18312_시각.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/유진/0827/19532_수학은 비대면강의입니다.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/유진/0827/19532_수학은 비대면강의입니다.py" beforeDir="false" afterPath="$PROJECT_DIR$/유진/0827/19532_수학은 비대면강의입니다.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +58,7 @@
     "Python.17413_단어뒤집기2.executor": "Run",
     "Python.18312_시각.executor": "Run",
     "Python.1913_달팽이.executor": "Run",
+    "Python.19532_수학은 비대면강의입니다.executor": "Run",
     "Python.20053.executor": "Run",
     "Python.20291.executor": "Run",
     "Python.20291_파일 정리.executor": "Run",
