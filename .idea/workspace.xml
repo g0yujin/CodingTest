@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2aaa4b18-f684-4697-8545-8b1c93cef5f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/유진/0829/18511_큰 수 구성하기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/유진/0829/1969_DNA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/0830/2422_한윤정 아이스크림.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/0830/5568_카드 놓기.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -73,6 +73,7 @@
     "Python.2231_분해합.executor": "Run",
     "Python.22858_원상복구.executor": "Run",
     "Python.22864_피로도.executor": "Run",
+    "Python.2422_한윤정 아이스크림.executor": "Run",
     "Python.2578.executor": "Run",
     "Python.2606.executor": "Run",
     "Python.2667_단지번호붙이기.executor": "Run",
@@ -80,6 +81,7 @@
     "Python.2798_블랙잭.executor": "Run",
     "Python.4396.executor": "Run",
     "Python.4963_섬의 개수.executor": "Run",
+    "Python.5568_카드 놓기.executor": "Run",
     "Python.5597.executor": "Run",
     "Python.ㄷㅇ.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
