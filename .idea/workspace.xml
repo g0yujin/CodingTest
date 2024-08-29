@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2aaa4b18-f684-4697-8545-8b1c93cef5f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/유진/0828/15721_번데기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/유진/0828/22864_피로도.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/0829/18511_큰 수 구성하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/0829/1969_DNA.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -60,8 +59,10 @@
     "Python.17276_배열돌리기.executor": "Run",
     "Python.17413_단어뒤집기2.executor": "Run",
     "Python.18312_시각.executor": "Run",
+    "Python.18511_큰 수 구성하기.executor": "Run",
     "Python.1913_달팽이.executor": "Run",
     "Python.19532_수학은 비대면강의입니다.executor": "Run",
+    "Python.1969_DNA.executor": "Run",
     "Python.20053.executor": "Run",
     "Python.20291.executor": "Run",
     "Python.20291_파일 정리.executor": "Run",
