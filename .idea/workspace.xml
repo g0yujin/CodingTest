@@ -5,10 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2aaa4b18-f684-4697-8545-8b1c93cef5f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/유진/0830/2422_한윤정 아이스크림.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/유진/0830/5568_카드 놓기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/0831_백준 완전 탐색/16439_치킨치킨치킨.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/0831_백준 완전 탐색/2503_숫자 야구.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/유진/0819/1260.py" beforeDir="false" afterPath="$PROJECT_DIR$/유진/0819_백준 그래프 탐색/1260.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/유진/0819/2606.py" beforeDir="false" afterPath="$PROJECT_DIR$/유진/0819_백준 그래프 탐색/2606.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/유진/0820/11725_트리의 부모 찾기.py" beforeDir="false" afterPath="$PROJECT_DIR$/유진/0820_백준 그래프 탐색/11725_트리의 부모 찾기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/유진/0820/1325_효율적인 해킹.py" beforeDir="false" afterPath="$PROJECT_DIR$/유진/0820_백준 그래프 탐색/1325_효율적인 해킹.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/유진/0821/2178_미로탐색.py" beforeDir="false" afterPath="$PROJECT_DIR$/유진/0821_백준 그래프 탐색/2178_미로탐색.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/유진/0821/2667_단지번호붙이기.py" beforeDir="false" afterPath="$PROJECT_DIR$/유진/0821_백준 그래프 탐색/2667_단지번호붙이기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/유진/0822/14940_쉬운 최단거리.py" beforeDir="false" afterPath="$PROJECT_DIR$/유진/0822_백준 그래프 탐색/14940_쉬운 최단거리.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/유진/0822/16918_봄버맨.py" beforeDir="false" afterPath="$PROJECT_DIR$/유진/0822_백준 그래프 탐색/16918_봄버맨.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/유진/0823/1012_유기농 배추.py" beforeDir="false" afterPath="$PROJECT_DIR$/유진/0823_백준 그래프 탐색/1012_유기농 배추.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/유진/0823/16956_늑대와 양.py" beforeDir="false" afterPath="$PROJECT_DIR$/유진/0823_백준 그래프 탐색/16956_늑대와 양.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/유진/0824/11724_연결요소의 개수.py" beforeDir="false" afterPath="$PROJECT_DIR$/유진/0824_백준 그래프 탐색/11724_연결요소의 개수.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/유진/0824/4963_섬의 개수.py" beforeDir="false" afterPath="$PROJECT_DIR$/유진/0824_백준 그래프 탐색/4963_섬의 개수.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/유진/0826/2231_분해합.py" beforeDir="false" afterPath="$PROJECT_DIR$/유진/0826_백준 완전 탐색/2231_분해합.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/유진/0826/2798_블랙잭.py" beforeDir="false" afterPath="$PROJECT_DIR$/유진/0826_백준 완전 탐색/2798_블랙잭.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/유진/0827/18312_시각.py" beforeDir="false" afterPath="$PROJECT_DIR$/유진/0827_백준 완전 탐색/18312_시각.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/유진/0827/19532_수학은 비대면강의입니다.py" beforeDir="false" afterPath="$PROJECT_DIR$/유진/0827_백준 완전 탐색/19532_수학은 비대면강의입니다.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/유진/0828/15721_번데기.py" beforeDir="false" afterPath="$PROJECT_DIR$/유진/0828_백준 완전 탐색/15721_번데기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/유진/0828/22864_피로도.py" beforeDir="false" afterPath="$PROJECT_DIR$/유진/0828_백준 완전 탐색/22864_피로도.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/유진/0829/18511_큰 수 구성하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/유진/0829_백준 완전 탐색/18511_큰 수 구성하기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/유진/0829/1969_DNA.py" beforeDir="false" afterPath="$PROJECT_DIR$/유진/0829_백준 완전 탐색/1969_DNA.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/유진/0830/2422_한윤정 아이스크림.py" beforeDir="false" afterPath="$PROJECT_DIR$/유진/0830_백준 완전 탐색/2422_한윤정 아이스크림.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/유진/0830/5568_카드 놓기.py" beforeDir="false" afterPath="$PROJECT_DIR$/유진/0830_백준 완전 탐색/5568_카드 놓기.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +76,7 @@
     "Python.14467.executor": "Run",
     "Python.14940_쉬운 최단거리.executor": "Run",
     "Python.15721_번데기.executor": "Run",
+    "Python.16439_치킨치킨치킨.executor": "Run",
     "Python.16918_봄버맨.executor": "Run",
     "Python.17276_배열돌리기.executor": "Run",
     "Python.17413_단어뒤집기2.executor": "Run",
