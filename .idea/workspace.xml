@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2aaa4b18-f684-4697-8545-8b1c93cef5f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/유진/0903_백준 백트레킹/15651_N과 M(3).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/유진/0903_백준 백트레킹/15652_N과 M(4).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/0904_백준 백트레킹/15654_N과 M(5).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/0904_백준 백트레킹/15655_N과 M(6).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -57,6 +57,8 @@
     "Python.15649_N과 M.executor": "Run",
     "Python.15650_N과M (2).executor": "Run",
     "Python.15652_N과 M(4).executor": "Run",
+    "Python.15654_N과 M(5).executor": "Run",
+    "Python.15655_N과 M(6).executor": "Run",
     "Python.15721_번데기.executor": "Run",
     "Python.16439_치킨치킨치킨.executor": "Run",
     "Python.16918_봄버맨.executor": "Run",
