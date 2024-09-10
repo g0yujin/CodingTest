@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2aaa4b18-f684-4697-8545-8b1c93cef5f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/유진/0909_백준 그리디/1343_폴리오미노.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/유진/0909_백준 그리디/14916_거스름돈.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/0910_백준 그리디/1758_알바생 강호.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/0910_백준 그리디/2217_로프.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -71,6 +70,7 @@
     "Python.16918_봄버맨.executor": "Run",
     "Python.17276_배열돌리기.executor": "Run",
     "Python.17413_단어뒤집기2.executor": "Run",
+    "Python.1758_알바생 강호.executor": "Run",
     "Python.18312_시각.executor": "Run",
     "Python.18511_큰 수 구성하기.executor": "Run",
     "Python.1913_달팽이.executor": "Run",
@@ -83,6 +83,7 @@
     "Python.20546.executor": "Run",
     "Python.2178_미로탐색.executor": "Run",
     "Python.21918.executor": "Run",
+    "Python.2217_로프.executor": "Run",
     "Python.2231_분해합.executor": "Run",
     "Python.22858_원상복구.executor": "Run",
     "Python.22864_피로도.executor": "Run",
