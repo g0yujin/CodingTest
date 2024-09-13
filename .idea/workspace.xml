@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2aaa4b18-f684-4697-8545-8b1c93cef5f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/유진/0912_백준 그리디/11047_동전 0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/유진/0912_백준 그리디/13305_주유소.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/0913_백준 그리디/20115_에너지 드링크.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/0913_백준 그리디/20300_서강 근육맨.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -81,8 +81,10 @@
     &quot;Python.19532_수학은 비대면강의입니다.executor&quot;: &quot;Run&quot;,
     &quot;Python.1969_DNA.executor&quot;: &quot;Run&quot;,
     &quot;Python.20053.executor&quot;: &quot;Run&quot;,
+    &quot;Python.20115_에너지 드링크.executor&quot;: &quot;Run&quot;,
     &quot;Python.20291.executor&quot;: &quot;Run&quot;,
     &quot;Python.20291_파일 정리.executor&quot;: &quot;Run&quot;,
+    &quot;Python.20300_서강 근육맨.executor&quot;: &quot;Run&quot;,
     &quot;Python.20436.executor&quot;: &quot;Run&quot;,
     &quot;Python.20546.executor&quot;: &quot;Run&quot;,
     &quot;Python.2178_미로탐색.executor&quot;: &quot;Run&quot;,
