@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2aaa4b18-f684-4697-8545-8b1c93cef5f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/유진/0917_백준 위상정렬/1005_ACM Craft.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/유진/0917_백준 위상정렬/2252_줄 세우기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/0918_백준 위상정렬/1766_문제집.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/0918_백준 위상정렬/2623_음악 프로그램.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/유진/0914_백준 위상정렬/14567_선수과목.py" beforeDir="false" afterPath="$PROJECT_DIR$/유진/0916_백준 위상정렬/14567_선수과목.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/유진/0914_백준 위상정렬/2056_작업.py" beforeDir="false" afterPath="$PROJECT_DIR$/유진/0916_백준 위상정렬/2056_작업.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
