@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2aaa4b18-f684-4697-8545-8b1c93cef5f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/유진/0919_백준 이진탐색/10815_숫자카드.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/유진/0919_백준 이진탐색/1789_수들의 합.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/0920_백준 이진탐색/2417_정수 제곱근.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/0920_백준 이진탐색/2512_예산.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,8 +96,10 @@
     "Python.2231_분해합.executor": "Run",
     "Python.22858_원상복구.executor": "Run",
     "Python.22864_피로도.executor": "Run",
+    "Python.2417_정수 제곱근.executor": "Run",
     "Python.2422_한윤정 아이스크림.executor": "Run",
     "Python.2503_숫자 야구.executor": "Run",
+    "Python.2512_예산.executor": "Run",
     "Python.2578.executor": "Run",
     "Python.2606.executor": "Run",
     "Python.2667_단지번호붙이기.executor": "Run",
