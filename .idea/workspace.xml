@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2aaa4b18-f684-4697-8545-8b1c93cef5f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/유진/0924_백준 이진탐색/1654_랜선 자르기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/유진/0924_백준 이진탐색/2805_나무 자르기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/0925_백준 이진탐색/22871_징검다리 건너기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/0925_백준 이진탐색/3079_입국심사.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -110,6 +110,7 @@
     "Python.2753.executor": "Run",
     "Python.2798_블랙잭.executor": "Run",
     "Python.2805_나무 자르기.executor": "Run",
+    "Python.3079_입국심사.executor": "Run",
     "Python.4396.executor": "Run",
     "Python.4963_섬의 개수.executor": "Run",
     "Python.5568_카드 놓기.executor": "Run",
