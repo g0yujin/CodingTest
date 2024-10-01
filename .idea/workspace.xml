@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2aaa4b18-f684-4697-8545-8b1c93cef5f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/유진/0930_백준 다이나믹 프로그래밍/17626_Four Squares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/유진/0930_백준 다이나믹 프로그래밍/2839_설탕배달.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/1001_백준 다이나믹 프로그래밍/1463_1로 만들기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/1001_백준 다이나믹 프로그래밍/9095_1,2,3 더하기.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +62,7 @@
     "Python.1343_폴리오미노.executor": "Run",
     "Python.14467.executor": "Run",
     "Python.14567_선수과목.executor": "Run",
+    "Python.1463_1로 만들기.executor": "Run",
     "Python.14916_거스름돈.executor": "Run",
     "Python.14940_쉬운 최단거리.executor": "Run",
     "Python.15649_N과 M.executor": "Run",
@@ -80,6 +81,7 @@
     "Python.17276_배열돌리기.executor": "Run",
     "Python.17413_단어뒤집기2.executor": "Run",
     "Python.1758_알바생 강호.executor": "Run",
+    "Python.17626_Four Squares.executor": "Run",
     "Python.1789_수들의 합.executor": "Run",
     "Python.18312_시각.executor": "Run",
     "Python.18511_큰 수 구성하기.executor": "Run",
@@ -118,6 +120,7 @@
     "Python.4963_섬의 개수.executor": "Run",
     "Python.5568_카드 놓기.executor": "Run",
     "Python.5597.executor": "Run",
+    "Python.9095_1,2,3 더하기.executor": "Run",
     "Python.ㄷㅇ.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
