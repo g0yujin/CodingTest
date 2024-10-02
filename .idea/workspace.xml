@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2aaa4b18-f684-4697-8545-8b1c93cef5f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/유진/1001_백준 다이나믹 프로그래밍/1463_1로 만들기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/유진/1001_백준 다이나믹 프로그래밍/9095_1,2,3 더하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/1002_백준 다이나믹 프로그래밍/11726_2xn 타일링.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/1002_백준 다이나믹 프로그래밍/2579_계단오르기.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +54,7 @@
     "Python.11663_선분 위의 점.executor": "Run",
     "Python.11724_연결요소의 개수.executor": "Run",
     "Python.11725_트리의 부모 찾기.executor": "Run",
+    "Python.11726_2xn 타일링.executor": "Run",
     "Python.1244.executor": "Run",
     "Python.1260.executor": "Run",
     "Python.12933.executor": "Run",
