@@ -9,7 +9,6 @@ for _ in range(n):
 d = [0] * (n+1)
 
 d[1] = stairs[0]
-d[n] = stairs[-1]
 
 if n > 1:
     d[2] = stairs[0] + stairs[1]
