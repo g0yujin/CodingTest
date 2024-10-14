@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2aaa4b18-f684-4697-8545-8b1c93cef5f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/유진/1014_프로그래머스_해시/나머지가 1이 되는 수 찾기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/유진/1014_프로그래머스_해시/폰켄몬.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/1015_프로그래머스 해시/완주하지 못한선수.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/1015_프로그래머스 해시/평균 구하기.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
