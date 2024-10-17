@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2aaa4b18-f684-4697-8545-8b1c93cef5f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/유진/1016_프로그래머스 해시/x만큼 간격이 있는 n개의 숫자.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/유진/1016_프로그래머스 해시/전화번호 목록.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/1017_프로그래머스 해시/의상.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/1017_프로그래머스 해시/짝수와 홀수.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
