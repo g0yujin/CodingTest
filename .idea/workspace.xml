@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2aaa4b18-f684-4697-8545-8b1c93cef5f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/유진/1021_프로그래머스 스택&amp;큐/같은 숫자는 싫어.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/유진/1021_프로그래머스 스택&amp;큐/문자열 내 p와 y의 개수.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/1022_프로그래머스 스택&amp;큐/기능 개발.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/1022_프로그래머스 스택&amp;큐/자연수 뒤집어 배열로 만들기.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
