@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2aaa4b18-f684-4697-8545-8b1c93cef5f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/유진/1024_프로그래머스 스택&amp;큐/정수 제곱근 판별.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/유진/1024_프로그래머스 스택&amp;큐/프로세스.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/1025_프로그래머스 스택&amp;큐/다리를 지나는 트럭.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/1025_프로그래머스 스택&amp;큐/하샤드 수.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/유진/1023_프로그래머스 해시&amp;큐/올바른 괄호.py" beforeDir="false" afterPath="$PROJECT_DIR$/유진/1023_프로그래머스 스택&amp;큐/올바른 괄호.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/유진/1023_프로그래머스 해시&amp;큐/정수 내림차순으로 배치하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/유진/1023_프로그래머스 스택&amp;큐/정수 내림차순으로 배치하기.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
