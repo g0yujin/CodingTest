@@ -9,15 +9,13 @@ class Solution {
             pq.add(i);
         }
         
-        if(pq.peek() >= K) return answer;
-        
-        while(true) {
+        while(pq.peek() < K) {
             if(pq.size()<2) return -1;
             int cur = pq.poll()+pq.poll()*2;
             answer++;
             pq.add(cur);
-            if(pq.peek() >= K) break;
         }
+        
         return answer;
     }
 }
