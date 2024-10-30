@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2aaa4b18-f684-4697-8545-8b1c93cef5f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/유진/1030_프로그래머스 힙/이중우선순위 큐.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/유진/1030_프로그래머스 힙/콜라츠 추측.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/1031_프로그래머스 스택&amp;큐/주식 가격.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/유진/1029_프로그래머스 힙/디스크 컨트롤러.py" beforeDir="false" afterPath="$PROJECT_DIR$/유진/1029_프로그래머스 힙/디스크 컨트롤러.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
