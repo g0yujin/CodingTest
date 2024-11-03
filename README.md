@@ -145,7 +145,7 @@
 </details>
 
 <details>
-  <summary>9. 프로그래머스 1주차</summary>
+  <summary>10. 프로그래머스 1주차</summary>
 
 |일차|날짜| 알고리즘 | 세부항목 |[지혜](https://github.com/Jihye511)|[서연](https://github.com/seoyeon2001)|[유진](https://github.com/g0yujin)|[지은](https://github.com/JiELee1)|
 |---|---|---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 </details>
 
 <details>
-  <summary>10. 프로그래머스 2주차</summary>
+  <summary>11. 프로그래머스 2주차</summary>
 
 |일차|날짜| 알고리즘 | 세부항목 |[지혜](https://github.com/Jihye511)|[서연](https://github.com/seoyeon2001)|[유진](https://github.com/g0yujin)|[지은](https://github.com/JiELee1)|
 |---|---|---|---|---|---|---|---|
@@ -173,7 +173,7 @@
 </details>
 
 <details>
-  <summary>11. 프로그래머스 3주차</summary>
+  <summary>12. 프로그래머스 3주차</summary>
 
 |일차|날짜| 알고리즘 | 세부항목 |[지혜](https://github.com/Jihye511)|[서연](https://github.com/seoyeon2001)|[유진](https://github.com/g0yujin)|[지은](https://github.com/JiELee1)|
 |---|---|---|---|---|---|---|---|
@@ -186,8 +186,21 @@
 
 </details>
 
+<details>
+  <summary>13. 프로그래머스 4주차</summary>
+
+|일차|날짜| 알고리즘 | 세부항목 |[지혜](https://github.com/Jihye511)|[서연](https://github.com/seoyeon2001)|[유진](https://github.com/g0yujin)|[지은](https://github.com/JiELee1)|
+|---|---|---|---|---|---|---|---|
+|64일차|11/4|정렬|제일 작은 수 제거하기, k-번째수|||||
+|65일차|11/5|정렬|핸드폰 번호 가리기, H-Index|||||
+|66일차|11/6|완전탐색|내적, 최소직사각형|||||
+|67일차|11/7|완전탐색|가운데 글자 가져오기, 	모의고사|||||
+|68일차|11/8|완전탐색|수박수박수박수박수박수?, 소수찾기|||||
+
+
+</details>
+
+
 ## 🎯Next Week Target
 
-12주차 프로그래머스 lv.1 && 힙 , 정렬
-
-13주차 프로그래머스 lv.1 && 정렬, 완전탐색
+13주차 프로그래머스 lv.1 && 완전탐색
