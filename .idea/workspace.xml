@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2aaa4b18-f684-4697-8545-8b1c93cef5f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/유진/1105_프로그래머스 정렬/H-Index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/유진/1105_프로그래머스 정렬/핸드폰 번호 가리기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/1106_완전탐색/내적.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/1106_완전탐색/최소 직사각형.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -137,6 +137,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/유진" />
       <recent name="$PROJECT_DIR$/유진/1104_프로그래머스 정렬" />
       <recent name="$PROJECT_DIR$/유진/0930_백준 다이나믹 프로그래밍" />
       <recent name="$PROJECT_DIR$/유진/0827" />
