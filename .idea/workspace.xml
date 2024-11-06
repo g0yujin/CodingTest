@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2aaa4b18-f684-4697-8545-8b1c93cef5f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/유진/1106_완전탐색/내적.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/유진/1106_완전탐색/최소 직사각형.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/1107_프로그래머스 완전탐색/가운데 글자 가져오기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/1107_프로그래머스 완전탐색/모의고사.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/유진/1106_완전탐색/내적.py" beforeDir="false" afterPath="$PROJECT_DIR$/유진/1106_프로그래머스 완전탐색/내적.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/유진/1106_완전탐색/최소 직사각형.py" beforeDir="false" afterPath="$PROJECT_DIR$/유진/1106_프로그래머스 완전탐색/최소 직사각형.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
