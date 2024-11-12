@@ -1,17 +1,19 @@
-import java.util.*;
-
 class Solution {
-    public int[] solution(int brown, int yellow) {
-        int[] answer = new int[2];
-        
-        for(int i = 1; i<=yellow; i++) {
-            if(yellow % i != 0) continue;
-            int j = yellow / i;
-            if(i*2 + j*2 + 4 == brown) {
-                answer[0] = Math.max(i+2,j+2);
-                answer[1] = Math.min(i+2,j+2);
-            }
+    public int solution(int left, int right) {
+        int answer = 0;
+        for(int i = left; i<=right; i++) {
+            int count = calculate(i);
+            if(count % 2 == 0) answer += i;
+            else answer -= i;
         }
         return answer;
+    }
+    
+    public int calculate(int num) {
+        int count = 0;
+        for(int i=1; i<=num; i++) {
+            if(num%i == 0) count++;
+        }
+        return count;
     }
 }
