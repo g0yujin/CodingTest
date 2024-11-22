@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2aaa4b18-f684-4697-8545-8b1c93cef5f0" name="Changes" comment="" />
+    <list default="true" id="2aaa4b18-f684-4697-8545-8b1c93cef5f0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/유진/1122_프로그래머스 탐욕법/단속카메라.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/유진/1122_프로그래머스 탐욕법/이상한 문자 만들기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -125,6 +129,7 @@
     &quot;Python.5597.executor&quot;: &quot;Run&quot;,
     &quot;Python.9095_1,2,3 더하기.executor&quot;: &quot;Run&quot;,
     &quot;Python.ㄷㅇ.executor&quot;: &quot;Run&quot;,
+    &quot;Python.구명보트.executor&quot;: &quot;Run&quot;,
     &quot;Python.소수 찾기.executor&quot;: &quot;Run&quot;,
     &quot;Python.수박수박수박수박수박수?.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
